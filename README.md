@@ -6,7 +6,7 @@
 ![](media/rd_2.png)
 ### On linux make a file "steam_appid.txt" with the game's id: e.g. 262410 for WOG.
 
-# Both scripts must be run from RenderDoc's own Python shell. Set the output dir and launch it.
+### Both scripts must be run from RenderDoc's own Python shell. Set the output dir and launch it.
 ![Optionally change it:](media/rd_1.jpg)
 
 ### "attr_index = 0" - You can find it in Pipeline State Vertex Attribute Formats in Index column
