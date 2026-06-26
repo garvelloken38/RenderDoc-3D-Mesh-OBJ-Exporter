@@ -1,5 +1,5 @@
 # RenderDoc-3D-Mesh-OBJ-Exporter
-### Automated tool to extract all the meshes in OBJ format from RenderDoc captures, that war originally written for extracting firearms from World of Guns: Gun Disassembly
+### Automated tool to extract all the meshes in OBJ format from RenderDoc captures, that was originally written for extracting firearms from World of Guns: Gun Disassembly
 
 ## These scripts have been successfully tested with RenderDoc 1.44 and WOG: the OpenGL version was tested under Linux Ubuntu 26.04, while the DirectX 11 version was tested under Windows 10.
 
