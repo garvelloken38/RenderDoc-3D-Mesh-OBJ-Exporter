@@ -17,3 +17,9 @@
 
 ### Use this diagram to understand how scripts compute vertex coordinates and binary array offsets.
 ![](media/scheme.jpg)
+
+### Example
+![](media/ins_1.png)
+![](media/ins_2.png)
+![](media/ins_3.png)
+![](media/ins_4.png)
