@@ -11,7 +11,7 @@
 ![](media/rd_1.jpg)
 
 ### "attr_index = 0" - You can find it in Pipeline State Vertex Attribute Formats in Index column
-### "x, y, z = struct.unpack_from('fff', vertex_bytes, 0)" - There is also a vertex coordinate size in bits. If it is "R16G16B32" use "eee" or "hhh" instead of "fff" 
+### "x, y, z = struct.unpack_from('fff', vertex_bytes, 0)" - There is also a vertex coordinate size in bits. If it is "R16G16B16" use "eee" or "hhh" instead of "fff" 
 ### "vertex_bytes = buffer_bytes[vertex_offset : vertex_offset + 12]" - And +6 instead of +12
 
 
