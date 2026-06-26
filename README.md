@@ -15,5 +15,5 @@
 ### "vertex_bytes = buffer_bytes[vertex_offset : vertex_offset + 12]" - And +6 instead of +12
 
 
-
-![Use this diagram to understand how scripts compute vertex coordinates and binary array offsets](media/scheme.jpg)
+### Use this diagram to understand how scripts compute vertex coordinates and binary array offsets.
+![](media/scheme.jpg)
