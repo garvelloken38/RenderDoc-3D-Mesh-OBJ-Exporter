@@ -1,6 +1,6 @@
 # RenderDoc-3D-Mesh-OBJ-Exporter
-## Automated tool to extract all the meshes in OBJ format from RenderDoc captures, that war originally written for extracting firearms from World of Guns: Gun Disassembly
-## These scripts have been successfully tested with RenderDoc 1.44 and WOG: the OpenGL version was tested under Linux Ubuntu 26.04, while the DirectX 11 version was tested under Windows 10.
+### Automated tool to extract all the meshes in OBJ format from RenderDoc captures, that war originally written for extracting firearms from World of Guns: Gun Disassembly
+### These scripts have been successfully tested with RenderDoc 1.44 and WOG: the OpenGL version was tested under Linux Ubuntu 26.04, while the DirectX 11 version was tested under Windows 10.
 
 ### Before using the script run a game and take a capture. In RenderDocRun the .exe or .x86. On Windows set 2 environment variables: SteamAppId and SteamAppUser - you can find them in Task Manager, after running the game via Steam - to launch the game using your Steam profile. 
 ![](media/rd_2.png)
