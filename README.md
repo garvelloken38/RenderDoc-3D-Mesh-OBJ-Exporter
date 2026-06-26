@@ -6,8 +6,9 @@
 ![](media/rd_2.png)
 ### On linux make a file "steam_appid.txt" with the game's id: e.g. 262410 for WOG.
 
-### Both scripts must be run from RenderDoc's own Python shell. Set the output dir and launch it.
-![Optionally change it:](media/rd_1.jpg)
+### Both scripts must be run from RenderDoc's own Python shell. Set the output dir and launch it. Optionally change it:
+
+![](media/rd_1.jpg)
 
 ### "attr_index = 0" - You can find it in Pipeline State Vertex Attribute Formats in Index column
 ### "x, y, z = struct.unpack_from('fff', vertex_bytes, 0)" - There is also a vertex coordinate size in bits. If it is "R16G16B32" use "eee" or "hhh" instead of "fff" 
